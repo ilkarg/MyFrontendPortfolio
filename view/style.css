@@ -1,0 +1,194 @@
+body 
+{
+    background-color: #CCF092;
+}
+
+#menu 
+{
+    text-align: center;
+    background-color: #4AA5F1;
+    margin-left: -8px;
+    margin-top: -16px;
+    margin-right: -8px;
+    height: 30px;
+}
+
+#menu > p 
+{
+    margin-left: -30px;
+}
+
+#menu > p > a
+{
+    font-size: 25px;
+    margin-left: 50px;
+    text-decoration: none;
+    color: white;
+}
+
+#menu > p > a:hover 
+{
+    color: blue;
+    text-decoration-line: underline;
+}
+
+#home-content > #about-me 
+{
+    font-size: 20px;
+    color: gray;
+    text-align: center;
+    margin-top: 50px;
+}
+
+#contacts-content 
+{
+    text-align: center;
+    margin-top: 250px;
+}
+
+#contacts-content > p > #content-github-link-icon 
+{
+    margin-left: 3px;
+}
+
+#contacts-content > p > #content-github-link-label
+{
+    text-decoration: none;
+    color: gray;
+    font-size: 20px;
+    vertical-align: 10px;
+    margin-left: 20px;
+}
+
+#contacts-content > p > #content-github-link-label:hover
+{
+    color: blue;
+    text-decoration-line: underline;
+}
+
+#contacts-content > p > #content-mail-link-label
+{
+    text-decoration: none;
+    color: gray;
+    font-size: 20px;
+    vertical-align: 10px;
+    margin-left: 20px;
+}
+
+#contacts-content > p > #content-mail-link-label:hover 
+{
+    color: blue;
+    text-decoration-line: underline;
+}
+
+#contacts-content > p > #content-vk-link-icon 
+{
+    margin-left: 35px;
+}
+
+#contacts-content > p > #content-vk-link-label
+{
+    text-decoration: none;
+    color: gray;
+    font-size: 20px;
+    vertical-align: 10px;
+    margin-left: 20px;
+}
+
+#contacts-content > p > #content-vk-link-label:hover 
+{
+    color: blue;
+    text-decoration-line: underline;
+}
+
+#contacts-content > p > #content-telegram-link-icon 
+{
+    margin-left: 17px;
+}
+
+#contacts-content > p > #content-telegram-link-label
+{
+    text-decoration: none;
+    color: gray;
+    font-size: 20px;
+    vertical-align: 10px;
+    margin-left: 20px;
+}
+
+#contacts-content > p > #content-telegram-link-label:hover 
+{
+    color: blue;
+    text-decoration-line: underline;
+}
+
+#portfolio-content > #portfolio-project1 > #portfolio-project1-label
+{
+    font-size: 20px;
+    text-align: center;
+}
+
+#portfolio-content > #portfolio-project1 > #portfolio-project1-label > a
+{
+    color: gray;
+    text-decoration: none;
+}
+
+#portfolio-content > #portfolio-project1 > #portfolio-project1-label > a:hover
+{
+    color: blue;
+    text-decoration-line: underline;
+}
+
+#portfolio-content > #portfolio-project2 > #portfolio-project2-label
+{
+    font-size: 20px;
+    text-align: center;
+}
+
+#portfolio-content > #portfolio-project2 > #portfolio-project2-label > a
+{
+    color: gray;
+    text-decoration: none;
+}
+
+#portfolio-content > #portfolio-project2 > #portfolio-project2-label > a:hover
+{
+    color: blue;
+    text-decoration-line: underline;
+}
+
+#portfolio-content > #portfolio-project3 > #portfolio-project3-label
+{
+    font-size: 20px;
+    text-align: center;
+}
+
+#portfolio-content > #portfolio-project3 > #portfolio-project3-label > a
+{
+    color: gray;
+    text-decoration: none;
+}
+
+#portfolio-content > #portfolio-project3 > #portfolio-project3-label > a:hover
+{
+    color: blue;
+    text-decoration-line: underline;
+}
+
+#portfolio-content > #portfolio-project4 > #portfolio-project4-label
+{
+    font-size: 20px;
+    text-align: center;
+}
+
+#portfolio-content > #portfolio-project4 > #portfolio-project4-label > a
+{
+    color: gray;
+    text-decoration: none;
+}
+
+#portfolio-content > #portfolio-project4 > #portfolio-project4-label > a:hover
+{
+    color: blue;
+    text-decoration-line: underline;
+}
